@@ -1,0 +1,44 @@
+body {
+  background-color: rgb(241, 66, 66);
+  display: grid;
+  justify-content: center;
+}
+
+h1 {
+  font-size: 75px;
+  color: white;
+}
+
+input {
+ width: 800px; 
+ height: 30px;
+ font-weight: bolder;
+}
+
+.addtask {
+  height: 35px;
+  background-color: green;
+  color: white;
+}
+
+li {
+  width: 600px;
+  background-color: rgb(206, 203, 203);
+  list-style-type: none;
+  font-weight:bolder;
+  font-size: 40px;
+  margin-top: 20px;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.deleteb {
+  background-color: green;
+  color: white;
+  height: 40px;
+}
+
+.deleteb {
+  margin-bottom: 10px;
+  margin-top: 5px;
+}
